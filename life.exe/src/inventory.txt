@@ -1,0 +1,2 @@
+Ciao;
+1550;100;Scudo di legno;1250;92;Scudo d'acciaio;Scudo di legno;

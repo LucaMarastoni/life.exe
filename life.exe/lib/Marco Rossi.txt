@@ -1,0 +1,3 @@
+Marco Rossi;marcorossi@protonmail.com;07/09/1984
+Bardock;10;10;0;10;1
+10;0;
